@@ -28,7 +28,7 @@ KNN
 ## KNN_model_visualization
 visualization for clusters.
 
-##KNN_model_find_optimanl_k
+## KNN_model_find_optimanl_k
 Finding optimanl k value. 
 
 
