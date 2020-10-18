@@ -18,7 +18,7 @@ Amazon-Fine-Food-Reviews
 4. TF-IDF
 5. Word2Vec
 
-## AppliedAi-Assignments 3
+## AppliedAi-Assignments 4
 KNN
 1. BOW
 2. TF-IDF
