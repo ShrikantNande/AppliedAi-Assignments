@@ -38,5 +38,5 @@ visualization for clusters.
 ## KNN_model_find_optimanl_k
 Finding optimanl k value. 
 
-
-
+Note : 
+file1.csv : csv file clean dataset form amazon food review
