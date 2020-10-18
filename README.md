@@ -25,6 +25,13 @@ KNN
 3. W2V
 4. Weighted TF-IDF W2V
 
+## AppliedAi-Assignments 6
+Naive Bayes
+1. BOW without calculating optimal alpha
+2. Calculate optimal alpha 
+  1. BOW
+  2. TF-IDF
+
 ## KNN_model_visualization
 visualization for clusters.
 
