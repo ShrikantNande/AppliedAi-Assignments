@@ -13,7 +13,7 @@
 ## AppliedAi-Assignments 3
 Amazon-Fine-Food-Reviews
 1. EDA
-2. Cleaning Dataset
+2. Cleaning Datasetregression
 3. Bi_gram and n-gram
 4. TF-IDF
 5. Word2Vec
@@ -31,6 +31,17 @@ Naive Bayes
 2. Calculate optimal alpha 
   1. BOW
   2. TF-IDF
+ 
+## AppliedAi-Assignments 7
+Logistic regression
+BOW
+1. GridSearchCV
+  1. L1 Regularization
+  2. L2 Regularization
+2. RandomizedSearchCV
+  1. L1 Regularization
+  2. L2 Regularization
+
 
 ## KNN_model_visualization
 visualization for clusters.
