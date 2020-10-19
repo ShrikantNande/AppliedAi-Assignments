@@ -36,11 +36,11 @@ Naive Bayes
 Logistic regression
 BOW
 1. GridSearchCV
-  1. L1 Regularization
-  2. L2 Regularization
+    i. L1 Regularization
+    ii. L2 Regularization
 2. RandomizedSearchCV
-  1. L1 Regularization
-  2. L2 Regularization
+    i. L1 Regularization
+    ii. L2 Regularization
 
 
 ## KNN_model_visualization
