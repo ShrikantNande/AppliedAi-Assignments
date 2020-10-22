@@ -42,6 +42,11 @@ BOW
   (i.) L1 Regularization
   (ii.) L2 Regularization
 
+## AppliedAi-Assignments 7-2
+Support Vector Machine
+BOW
+Implimentation
+Explane SVM 
 
 ## KNN_model_visualization
 visualization for clusters.
